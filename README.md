@@ -14,11 +14,13 @@ I specialize in **AWS services** (Amplify, CDK, SAM, Lambda, DynamoDB) to delive
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![HTMX](https://img.shields.io/badge/HTMX-3366FF?style=for-the-badge&logo=htmx&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 **Backend & Frameworks:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -66,11 +68,6 @@ I specialize in **AWS services** (Amplify, CDK, SAM, Lambda, DynamoDB) to delive
 
 - [📹 **Video Processing System**](#)  
   A **serverless video pipeline** using **AWS SAM, Node.js (TypeScript), and FFmpeg** for automated video encoding.  
-
-## 📊 GitHub Stats
-
-![Zion's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongbizion&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kongbizion&layout=compact&theme=radical)
 
 ## 🌍 Connect with Me
 
