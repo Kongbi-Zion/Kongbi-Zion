@@ -6,8 +6,6 @@ I’m a Full-stack web and mobile developer with **4+ years of experience** buil
 Skilled in **frontend frameworks** (Vue, Nuxt, React, Next.js), **backend technologies** (Node.js, Flask), and **mobile development** (Flutter, React Native).  
 I specialize in **AWS services** (Amplify, CDK, SAM, Lambda, DynamoDB) to deliver **scalable, serverless, and AI-integrated solutions**.
 
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:**  
@@ -55,8 +53,6 @@ I specialize in **AWS services** (Amplify, CDK, SAM, Lambda, DynamoDB) to delive
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
 ## 📌 Featured Projects
 
 - [🌍 **Crowdfunding App**](#)  
@@ -71,14 +67,10 @@ I specialize in **AWS services** (Amplify, CDK, SAM, Lambda, DynamoDB) to delive
 - [📹 **Video Processing System**](#)  
   A **serverless video pipeline** using **AWS SAM, Node.js (TypeScript), and FFmpeg** for automated video encoding.  
 
----
-
 ## 📊 GitHub Stats
 
 ![Zion's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongbizion&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kongbizion&layout=compact&theme=radical)
-
----
 
 ## 🌍 Connect with Me
 
