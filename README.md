@@ -1,10 +1,68 @@
-- 👋 Hi, I’m @Kongbi-Zion
-- 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on various projects with you guys 
-- 📫 How to reach me: You can reach me by writting me up on my email  kongbizion3@gmail.com
+# Hi, I'm Zion Nfor 👋
 
-<!---
-Kongbi-Zion/Kongbi-Zion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full-stack | Mobile | Cloud Developer | AWS Amplify Enthusiast**
+
+I’m a Full-stack web and mobile developer with **4+ years of experience** building **modern, cloud-native, and AI-powered applications**.  
+Skilled in **frontend frameworks** (Vue, Nuxt, React, Next.js), **backend technologies** (Node.js, Flask), and **mobile development** (Flutter, React Native).  
+I specialize in **AWS services** (Amplify, CDK, SAM, Lambda, DynamoDB) to deliver **scalable, serverless, and AI-integrated solutions**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+
+**Backend & APIs:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+**Mobile:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)  
+
+**Cloud & DevOps:**  
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) 
+![CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![SAM](https://img.shields.io/badge/AWS_SAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+
+---
+
+## 📌 Featured Projects
+
+- [🌍 **Crowdfunding App**](#)  
+  A full-stack crowdfunding platform built with **Laravel, Vue.js, and AWS Amplify**. Supports donations, payments, and authentication.  
+
+- [🛒 **E-Commerce Web App**](#)  
+  Built with **Next.js, Redux, Tailwind CSS, and AWS Amplify**, featuring cart, checkout, and real-time inventory management.  
+
+- [📱 **Delivery Application**](#)  
+  Mobile-first delivery app built using **Flutter** and backed with a **Laravel + MySQL API**, hosted on **cPanel**.  
+
+- [📹 **Video Processing System**](#)  
+  A **serverless video pipeline** using **AWS SAM, Node.js (TypeScript), and FFmpeg** for automated video encoding.  
+
+---
+
+## 📊 GitHub Stats
+
+![Zion's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongbizion&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kongbizion&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+📧 **kongbizion3@gmail.com**
