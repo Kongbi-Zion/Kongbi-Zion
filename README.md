@@ -57,20 +57,6 @@ I specialize in **AWS services** (Amplify, CDK, SAM, Lambda, DynamoDB) to delive
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-## 📌 Featured Projects
-
-- [🌍 **Crowdfunding App**](#)  
-  A full-stack crowdfunding platform built with **Laravel, Vue.js, and AWS Amplify**. Supports donations, payments, and authentication.  
-
-- [🛒 **E-Commerce Web App**](#)  
-  Built with **Next.js, Redux, Tailwind CSS, and AWS Amplify**, featuring cart, checkout, and real-time inventory management.  
-
-- [📱 **Delivery Application**](#)  
-  Mobile-first delivery app built using **Flutter** and backed with a **Laravel + MySQL API**, hosted on **cPanel**.  
-
-- [📹 **Video Processing System**](#)  
-  A **serverless video pipeline** using **AWS SAM, Node.js (TypeScript), and FFmpeg** for automated video encoding.  
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nfor/)  
